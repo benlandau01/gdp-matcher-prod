@@ -1,0 +1,1618 @@
+[
+  {
+    "country": "Afghanistan",
+    "top_export": "Natural gums, resins, gum-resins and oleoresins, n.e.c. in heading no. 1301",
+    "GDP": 14502158192.0904,
+    "Year": 2022,
+    "iso_code": "AF",
+    "flag_url": "https://flagsapi.com/AF/flat/64.png"
+  },
+  {
+    "country": "Albania",
+    "top_export": "Electrical energy",
+    "GDP": 22977677860.7979,
+    "Year": 2023,
+    "iso_code": "AL",
+    "flag_url": "https://flagsapi.com/AL/flat/64.png"
+  },
+  {
+    "country": "Algeria",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 239899491127.742,
+    "Year": 2023,
+    "iso_code": "DZ",
+    "flag_url": "https://flagsapi.com/DZ/flat/64.png"
+  },
+  {
+    "country": "American Samoa",
+    "top_export": "Flours, meals and pellets: of fish or of crustaceans, molluscs or other aquatic invertebrates",
+    "GDP": 871000000,
+    "Year": 2022,
+    "iso_code": "AS",
+    "flag_url": "https://flagsapi.com/AS/flat/64.png"
+  },
+  {
+    "country": "Andorra",
+    "top_export": "Paintings, drawings and pastels: executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",
+    "GDP": 3727673593.0192,
+    "Year": 2023,
+    "iso_code": "AD",
+    "flag_url": "https://flagsapi.com/AD/flat/64.png"
+  },
+  {
+    "country": "Angola",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 84722957642.3757,
+    "Year": 2023,
+    "iso_code": "AO",
+    "flag_url": "https://flagsapi.com/AO/flat/64.png"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 2033085185.1852,
+    "Year": 2023,
+    "iso_code": "AG",
+    "flag_url": "https://flagsapi.com/AG/flat/64.png"
+  },
+  {
+    "country": "Argentina",
+    "top_export": "Vehicles: with only compression-ignition internal combustion piston engine (diesel or semi-diesel), for transport of goods, (of a gvw not exceeding 5 tonnes), n.e.c. in item no 8704.1",
+    "GDP": 640591410663.883,
+    "Year": 2023,
+    "iso_code": "AR",
+    "flag_url": "https://flagsapi.com/AR/flat/64.png"
+  },
+  {
+    "country": "Armenia",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 24212134631.064,
+    "Year": 2023,
+    "iso_code": "AM",
+    "flag_url": "https://flagsapi.com/AM/flat/64.png"
+  },
+  {
+    "country": "Aruba",
+    "top_export": "Turbines: gas-turbines (excluding turbo-jets and turbo-propellers), of a power exceeding 5000kW",
+    "GDP": 3544707788.0566,
+    "Year": 2022,
+    "iso_code": "AW",
+    "flag_url": "https://flagsapi.com/AW/flat/64.png"
+  },
+  {
+    "country": "Australia",
+    "top_export": "Iron ores and concentrates: non-agglomerated",
+    "GDP": 1723827215334.71,
+    "Year": 2023,
+    "iso_code": "AU",
+    "flag_url": "https://flagsapi.com/AU/flat/64.png"
+  },
+  {
+    "country": "Austria",
+    "top_export": "Heterocyclic compounds: lactams: other than 6-hexanelactam (epsilon caprolactam) and clobazam (INN) and methyprylon (INN)",
+    "GDP": 516034144115.95,
+    "Year": 2023,
+    "iso_code": "AT",
+    "flag_url": "https://flagsapi.com/AT/flat/64.png"
+  },
+  {
+    "country": "Azerbaijan",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 72356176470.5882,
+    "Year": 2023,
+    "iso_code": "AZ",
+    "flag_url": "https://flagsapi.com/AZ/flat/64.png"
+  },
+  {
+    "country": "Bahamas",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 14338500000,
+    "Year": 2023,
+    "iso_code": "BS",
+    "flag_url": "https://flagsapi.com/BS/flat/64.png"
+  },
+  {
+    "country": "Bahrain",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 43205000000,
+    "Year": 2023,
+    "iso_code": "BH",
+    "flag_url": "https://flagsapi.com/BH/flat/64.png"
+  },
+  {
+    "country": "Bangladesh",
+    "top_export": "Trousers, bib and brace overalls, breeches and shorts: men's or boys', of cotton (not knitted or crocheted)",
+    "GDP": 437415331040.994,
+    "Year": 2023,
+    "iso_code": "BD",
+    "flag_url": "https://flagsapi.com/BD/flat/64.png"
+  },
+  {
+    "country": "Barbados",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 6393564189.6135,
+    "Year": 2023,
+    "iso_code": "BB",
+    "flag_url": "https://flagsapi.com/BB/flat/64.png"
+  },
+  {
+    "country": "Belarus",
+    "top_export": "Fertilizers, mineral or chemical: potassic, potassium chloride",
+    "GDP": 71857382745.6066,
+    "Year": 2023,
+    "iso_code": "BY",
+    "flag_url": "https://flagsapi.com/BY/flat/64.png"
+  },
+  {
+    "country": "Belgium",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 632216577075.109,
+    "Year": 2023,
+    "iso_code": "BE",
+    "flag_url": "https://flagsapi.com/BE/flat/64.png"
+  },
+  {
+    "country": "Belize",
+    "top_export": "Fruit, edible: bananas, other than plantains, fresh or dried",
+    "GDP": 3281500000,
+    "Year": 2023,
+    "iso_code": "BZ",
+    "flag_url": "https://flagsapi.com/BZ/flat/64.png"
+  },
+  {
+    "country": "Benin",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 19673284686.0023,
+    "Year": 2023,
+    "iso_code": "BJ",
+    "flag_url": "https://flagsapi.com/BJ/flat/64.png"
+  },
+  {
+    "country": "Bermuda",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 7827980000,
+    "Year": 2022,
+    "iso_code": "BM",
+    "flag_url": "https://flagsapi.com/BM/flat/64.png"
+  },
+  {
+    "country": "Bhutan",
+    "top_export": "Ferro-alloys: ferro-silicon, containing by weight more than 55% of silicon",
+    "GDP": 2898227713.2231,
+    "Year": 2022,
+    "iso_code": "BT",
+    "flag_url": "https://flagsapi.com/BT/flat/64.png"
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 45849832906.4139,
+    "Year": 2023,
+    "iso_code": "BO",
+    "flag_url": "https://flagsapi.com/BO/flat/64.png"
+  },
+  {
+    "country": "Bosnia Herzegovina",
+    "top_export": "Electrical energy",
+    "GDP": 27054889362.8852,
+    "Year": 2023,
+    "iso_code": "BA",
+    "flag_url": "https://flagsapi.com/BA/flat/64.png"
+  },
+  {
+    "country": "Botswana",
+    "top_export": "Diamonds: non-industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
+    "GDP": 19395765126.3127,
+    "Year": 2023,
+    "iso_code": "BW",
+    "flag_url": "https://flagsapi.com/BW/flat/64.png"
+  },
+  {
+    "country": "Brazil",
+    "top_export": "Soya beans: other than seed, whether or not broken",
+    "GDP": 2173665655937.27,
+    "Year": 2023,
+    "iso_code": "BR",
+    "flag_url": "https://flagsapi.com/BR/flat/64.png"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 15128292953.5098,
+    "Year": 2023,
+    "iso_code": "BN",
+    "flag_url": "https://flagsapi.com/BN/flat/64.png"
+  },
+  {
+    "country": "Bulgaria",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 101584384672.786,
+    "Year": 2023,
+    "iso_code": "BG",
+    "flag_url": "https://flagsapi.com/BG/flat/64.png"
+  },
+  {
+    "country": "Burkina Faso",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 20324617838.9676,
+    "Year": 2023,
+    "iso_code": "BF",
+    "flag_url": "https://flagsapi.com/BF/flat/64.png"
+  },
+  {
+    "country": "Burundi",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 2642161668.9275,
+    "Year": 2023,
+    "iso_code": "BI",
+    "flag_url": "https://flagsapi.com/BI/flat/64.png"
+  },
+  {
+    "country": "Cabo Verde",
+    "top_export": "Fish preparations: fish prepared or preserved, whole or in pieces (but not minced), n.e.c. in heading no. 1604",
+    "GDP": 2587252076.3056,
+    "Year": 2023,
+    "iso_code": "CV",
+    "flag_url": "https://flagsapi.com/CV/flat/64.png"
+  },
+  {
+    "country": "Cambodia",
+    "top_export": "Electrical apparatus: photosensitive semiconductor devices, photovoltaic cells assembled in modules or made up into panels",
+    "GDP": 31772759998.8571,
+    "Year": 2023,
+    "iso_code": "KH",
+    "flag_url": "https://flagsapi.com/KH/flat/64.png"
+  },
+  {
+    "country": "Cameroon",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 47945510090.0529,
+    "Year": 2023,
+    "iso_code": "CM",
+    "flag_url": "https://flagsapi.com/CM/flat/64.png"
+  },
+  {
+    "country": "Canada",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 2140085567791.45,
+    "Year": 2023,
+    "iso_code": "CA",
+    "flag_url": "https://flagsapi.com/CA/flat/64.png"
+  },
+  {
+    "country": "Cayman Isds",
+    "top_export": "Aeroplanes and other aircraft, except unmanned: of an unladen weight exceeding 15,000kg",
+    "GDP": 6600844001.5372,
+    "Year": 2022,
+    "iso_code": "KY",
+    "flag_url": "https://flagsapi.com/KY/flat/64.png"
+  },
+  {
+    "country": "Central African Rep.",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 2555492085.2483,
+    "Year": 2023,
+    "iso_code": "CF",
+    "flag_url": "https://flagsapi.com/CF/flat/64.png"
+  },
+  {
+    "country": "Chad",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 13149325358.7383,
+    "Year": 2023,
+    "iso_code": "TD",
+    "flag_url": "https://flagsapi.com/TD/flat/64.png"
+  },
+  {
+    "country": "Chile",
+    "top_export": "Copper ores and concentrates",
+    "GDP": 335533331669.219,
+    "Year": 2023,
+    "iso_code": "CL",
+    "flag_url": "https://flagsapi.com/CL/flat/64.png"
+  },
+  {
+    "country": "China",
+    "top_export": "Telephone sets: smartphones for cellular or other wireless networks",
+    "GDP": 17794781986104.5,
+    "Year": 2023,
+    "iso_code": "CN",
+    "flag_url": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "country": "China, Hong Kong SAR",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 382054574298.529,
+    "Year": 2023,
+    "iso_code": "HK",
+    "flag_url": "https://flagsapi.com/HK/flat/64.png"
+  },
+  {
+    "country": "China, Macao SAR",
+    "top_export": "Jewellery: of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
+    "GDP": 47061843715.8565,
+    "Year": 2023,
+    "iso_code": "MO",
+    "flag_url": "https://flagsapi.com/MO/flat/64.png"
+  },
+  {
+    "country": "Colombia",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 363540156234.868,
+    "Year": 2023,
+    "iso_code": "CO",
+    "flag_url": "https://flagsapi.com/CO/flat/64.png"
+  },
+  {
+    "country": "Comoros",
+    "top_export": "Spices: cloves (whole fruit, cloves and stems), neither crushed nor ground",
+    "GDP": 1352380972.1566,
+    "Year": 2023,
+    "iso_code": "KM",
+    "flag_url": "https://flagsapi.com/KM/flat/64.png"
+  },
+  {
+    "country": "Congo",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 15321055818.3263,
+    "Year": 2023,
+    "iso_code": "CG",
+    "flag_url": "https://flagsapi.com/CG/flat/64.png"
+  },
+  {
+    "country": "Costa Rica",
+    "top_export": "Medical, surgical or dental instruments and appliances: n.e.c. in heading no. 9018",
+    "GDP": 86497941439.0174,
+    "Year": 2023,
+    "iso_code": "CR",
+    "flag_url": "https://flagsapi.com/CR/flat/64.png"
+  },
+  {
+    "country": "Croatia",
+    "top_export": "Floating or submersible drilling or production platforms",
+    "GDP": 82688842717.3926,
+    "Year": 2023,
+    "iso_code": "HR",
+    "flag_url": "https://flagsapi.com/HR/flat/64.png"
+  },
+  {
+    "country": "Cuba",
+    "top_export": "Nickel: oxide sinters and other intermediate products of nickel metallurgy",
+    "GDP": 107351800000,
+    "Year": 2020,
+    "iso_code": "CU",
+    "flag_url": "https://flagsapi.com/CU/flat/64.png"
+  },
+  {
+    "country": "Cyprus",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 32229622669.1951,
+    "Year": 2023,
+    "iso_code": "CY",
+    "flag_url": "https://flagsapi.com/CY/flat/64.png"
+  },
+  {
+    "country": "Czechia",
+    "top_export": "Telephone sets: smartphones for cellular or other wireless networks",
+    "GDP": 330858339871.686,
+    "Year": 2023,
+    "iso_code": "CZ",
+    "flag_url": "https://flagsapi.com/CZ/flat/64.png"
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "top_export": "Metals: gold, semi-manufactured",
+    "GDP": 78788828906.8634,
+    "Year": 2023,
+    "iso_code": "CI",
+    "flag_url": "https://flagsapi.com/CI/flat/64.png"
+  },
+  {
+    "country": "Dem. Rep. of the Congo",
+    "top_export": "Copper: refined, unwrought, cathodes and sections of cathodes",
+    "GDP": 66383287002.9969,
+    "Year": 2023,
+    "iso_code": "CD",
+    "flag_url": "https://flagsapi.com/CD/flat/64.png"
+  },
+  {
+    "country": "Denmark",
+    "top_export": "Medicaments: containing hormones (but not insulin), adrenal cortex hormones or antibiotics, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 404198757537.974,
+    "Year": 2023,
+    "iso_code": "DK",
+    "flag_url": "https://flagsapi.com/DK/flat/64.png"
+  },
+  {
+    "country": "Djibouti",
+    "top_export": "Vegetable oils: palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
+    "GDP": 4098530513.5578,
+    "Year": 2023,
+    "iso_code": "DJ",
+    "flag_url": "https://flagsapi.com/DJ/flat/64.png"
+  },
+  {
+    "country": "Dominica",
+    "top_export": "Iron or non-alloy steel: angles, shapes and sections, n.e.c. in heading no. 7216, hot-rolled, hot-drawn or extruded",
+    "GDP": 653992592.5926,
+    "Year": 2023,
+    "iso_code": "DM",
+    "flag_url": "https://flagsapi.com/DM/flat/64.png"
+  },
+  {
+    "country": "Dominican Rep.",
+    "top_export": "Medical, surgical or dental instruments and appliances: n.e.c. in heading no. 9018",
+    "GDP": 121444279313.931,
+    "Year": 2023,
+    "iso_code": "DO",
+    "flag_url": "https://flagsapi.com/DO/flat/64.png"
+  },
+  {
+    "country": "Ecuador",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 118844826000,
+    "Year": 2023,
+    "iso_code": "EC",
+    "flag_url": "https://flagsapi.com/EC/flat/64.png"
+  },
+  {
+    "country": "Egypt",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 395926075163.006,
+    "Year": 2023,
+    "iso_code": "EG",
+    "flag_url": "https://flagsapi.com/EG/flat/64.png"
+  },
+  {
+    "country": "El Salvador",
+    "top_export": "T-shirts, singlets and other vests: of cotton, knitted or crocheted",
+    "GDP": 34015620000,
+    "Year": 2023,
+    "iso_code": "SV",
+    "flag_url": "https://flagsapi.com/SV/flat/64.png"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 12116922539.4112,
+    "Year": 2023,
+    "iso_code": "GQ",
+    "flag_url": "https://flagsapi.com/GQ/flat/64.png"
+  },
+  {
+    "country": "Eritrea",
+    "top_export": "Zinc ores and concentrates",
+    "GDP": 2065001626.0163,
+    "Year": 2011,
+    "iso_code": "ER",
+    "flag_url": "https://flagsapi.com/ER/flat/64.png"
+  },
+  {
+    "country": "Estonia",
+    "top_export": "Vegetable oils: palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
+    "GDP": 40744848827.9537,
+    "Year": 2023,
+    "iso_code": "EE",
+    "flag_url": "https://flagsapi.com/EE/flat/64.png"
+  },
+  {
+    "country": "Eswatini",
+    "top_export": "Odoriferous substances and mixtures: of a kind used in the food or drink industries",
+    "GDP": 4597855845.0428,
+    "Year": 2023,
+    "iso_code": "SZ",
+    "flag_url": "https://flagsapi.com/SZ/flat/64.png"
+  },
+  {
+    "country": "Ethiopia",
+    "top_export": "Coffee: not roasted or decaffeinated",
+    "GDP": 163697927593.982,
+    "Year": 2023,
+    "iso_code": "ET",
+    "flag_url": "https://flagsapi.com/ET/flat/64.png"
+  },
+  {
+    "country": "Fiji",
+    "top_export": "Waters: other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow",
+    "GDP": 5494797540.7337,
+    "Year": 2023,
+    "iso_code": "FJ",
+    "flag_url": "https://flagsapi.com/FJ/flat/64.png"
+  },
+  {
+    "country": "Finland",
+    "top_export": "Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds",
+    "GDP": 300187202696.084,
+    "Year": 2023,
+    "iso_code": "FI",
+    "flag_url": "https://flagsapi.com/FI/flat/64.png"
+  },
+  {
+    "country": "France",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 3030904089607.9,
+    "Year": 2023,
+    "iso_code": "FR",
+    "flag_url": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "country": "French Polynesia",
+    "top_export": "Pearls: cultured, unworked, whether or not graded (but not strung, mounted or set), temporarily strung for the convenience of transport",
+    "GDP": 5814661208.9054,
+    "Year": 2022,
+    "iso_code": "PF",
+    "flag_url": "https://flagsapi.com/PF/flat/64.png"
+  },
+  {
+    "country": "Gabon",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 20516134388.6608,
+    "Year": 2023,
+    "iso_code": "GA",
+    "flag_url": "https://flagsapi.com/GA/flat/64.png"
+  },
+  {
+    "country": "Gambia",
+    "top_export": "Medicaments: consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 2339904156.7921,
+    "Year": 2023,
+    "iso_code": "GM",
+    "flag_url": "https://flagsapi.com/GM/flat/64.png"
+  },
+  {
+    "country": "Georgia",
+    "top_export": "Electrical energy",
+    "GDP": 30535530479.0227,
+    "Year": 2023,
+    "iso_code": "GE",
+    "flag_url": "https://flagsapi.com/GE/flat/64.png"
+  },
+  {
+    "country": "Germany",
+    "top_export": "Vehicles: with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "GDP": 4456081016705.96,
+    "Year": 2023,
+    "iso_code": "DE",
+    "flag_url": "https://flagsapi.com/DE/flat/64.png"
+  },
+  {
+    "country": "Ghana",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 76370394412.4163,
+    "Year": 2023,
+    "iso_code": "GH",
+    "flag_url": "https://flagsapi.com/GH/flat/64.png"
+  },
+  {
+    "country": "Greece",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 238206312632.528,
+    "Year": 2023,
+    "iso_code": "GR",
+    "flag_url": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "country": "Greenland",
+    "top_export": "Crustaceans: frozen, cold-water shrimps and prawns (Pandalus spp., Crangon crangon), in shell or not, smoked, cooked or not before or during smoking: in shell, cooked by steaming or by boiling in water",
+    "GDP": 3235809504.2987,
+    "Year": 2021,
+    "iso_code": "GL",
+    "flag_url": "https://flagsapi.com/GL/flat/64.png"
+  },
+  {
+    "country": "Grenada",
+    "top_export": "Fish: fresh or chilled, yellowfin tunas (Thunnus albacares), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "GDP": 1320334235.589,
+    "Year": 2023,
+    "iso_code": "GD",
+    "flag_url": "https://flagsapi.com/GD/flat/64.png"
+  },
+  {
+    "country": "Guam",
+    "top_export": "Ferrous waste and scrap: n.e.c. in heading no. 7204",
+    "GDP": 6910000000,
+    "Year": 2022,
+    "iso_code": "GU",
+    "flag_url": "https://flagsapi.com/GU/flat/64.png"
+  },
+  {
+    "country": "Guatemala",
+    "top_export": "Fruit, edible: bananas, other than plantains, fresh or dried",
+    "GDP": 102050473863.636,
+    "Year": 2023,
+    "iso_code": "GT",
+    "flag_url": "https://flagsapi.com/GT/flat/64.png"
+  },
+  {
+    "country": "Guinea",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 23612295818.0961,
+    "Year": 2023,
+    "iso_code": "GN",
+    "flag_url": "https://flagsapi.com/GN/flat/64.png"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "top_export": "Nuts, edible: cashew nuts, fresh or dried, in shell",
+    "GDP": 1966461400.3583,
+    "Year": 2023,
+    "iso_code": "GW",
+    "flag_url": "https://flagsapi.com/GW/flat/64.png"
+  },
+  {
+    "country": "Guyana",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 16786302158.2734,
+    "Year": 2023,
+    "iso_code": "GY",
+    "flag_url": "https://flagsapi.com/GY/flat/64.png"
+  },
+  {
+    "country": "Haiti",
+    "top_export": "T-shirts, singlets and other vests: of cotton, knitted or crocheted",
+    "GDP": 19850829757.7471,
+    "Year": 2023,
+    "iso_code": "HT",
+    "flag_url": "https://flagsapi.com/HT/flat/64.png"
+  },
+  {
+    "country": "Honduras",
+    "top_export": "Insulated electric conductors: ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "GDP": 34400509852.0437,
+    "Year": 2023,
+    "iso_code": "HN",
+    "flag_url": "https://flagsapi.com/HN/flat/64.png"
+  },
+  {
+    "country": "Hungary",
+    "top_export": "Electric accumulators: lithium-ion, including separators, whether or not rectangular (including square)",
+    "GDP": 212388906458.724,
+    "Year": 2023,
+    "iso_code": "HU",
+    "flag_url": "https://flagsapi.com/HU/flat/64.png"
+  },
+  {
+    "country": "Iceland",
+    "top_export": "Aluminium: unwrought, (not alloyed)",
+    "GDP": 31020032583.1972,
+    "Year": 2023,
+    "iso_code": "IS",
+    "flag_url": "https://flagsapi.com/IS/flat/64.png"
+  },
+  {
+    "country": "India",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 3549918918777.53,
+    "Year": 2023,
+    "iso_code": "IN",
+    "flag_url": "https://flagsapi.com/IN/flat/64.png"
+  },
+  {
+    "country": "Indonesia",
+    "top_export": "Ferro-alloys: ferro-nickel",
+    "GDP": 1371171152331.16,
+    "Year": 2023,
+    "iso_code": "ID",
+    "flag_url": "https://flagsapi.com/ID/flat/64.png"
+  },
+  {
+    "country": "Iran",
+    "top_export": "Iron ores and concentrates: agglomerated (excluding roasted iron pyrites)",
+    "GDP": 401504514718.718,
+    "Year": 2023,
+    "iso_code": "IR",
+    "flag_url": "https://flagsapi.com/IR/flat/64.png"
+  },
+  {
+    "country": "Iraq",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 250842782139.464,
+    "Year": 2023,
+    "iso_code": "IQ",
+    "flag_url": "https://flagsapi.com/IQ/flat/64.png"
+  },
+  {
+    "country": "Ireland",
+    "top_export": "Medicaments: consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 545629450403.735,
+    "Year": 2023,
+    "iso_code": "IE",
+    "flag_url": "https://flagsapi.com/IE/flat/64.png"
+  },
+  {
+    "country": "Israel",
+    "top_export": "Diamonds: non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
+    "GDP": 509901495702.103,
+    "Year": 2023,
+    "iso_code": "IL",
+    "flag_url": "https://flagsapi.com/IL/flat/64.png"
+  },
+  {
+    "country": "Italy",
+    "top_export": "Medicaments: consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 2254851212731.8,
+    "Year": 2023,
+    "iso_code": "IT",
+    "flag_url": "https://flagsapi.com/IT/flat/64.png"
+  },
+  {
+    "country": "Jamaica",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: liquefied, natural gas",
+    "GDP": 19423355367.2372,
+    "Year": 2023,
+    "iso_code": "JM",
+    "flag_url": "https://flagsapi.com/JM/flat/64.png"
+  },
+  {
+    "country": "Japan",
+    "top_export": "Vehicles: with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "GDP": 4212945159781.4,
+    "Year": 2023,
+    "iso_code": "JP",
+    "flag_url": "https://flagsapi.com/JP/flat/64.png"
+  },
+  {
+    "country": "Jordan",
+    "top_export": "Phosphoric acid and polyphosphoric acids",
+    "GDP": 50813642348.6746,
+    "Year": 2023,
+    "iso_code": "JO",
+    "flag_url": "https://flagsapi.com/JO/flat/64.png"
+  },
+  {
+    "country": "Kazakhstan",
+    "top_export": "Metals: gold, semi-manufactured",
+    "GDP": 261421121085.572,
+    "Year": 2023,
+    "iso_code": "KZ",
+    "flag_url": "https://flagsapi.com/KZ/flat/64.png"
+  },
+  {
+    "country": "Kenya",
+    "top_export": "Tea, black: (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
+    "GDP": 107440575838.048,
+    "Year": 2023,
+    "iso_code": "KE",
+    "flag_url": "https://flagsapi.com/KE/flat/64.png"
+  },
+  {
+    "country": "Kiribati",
+    "top_export": "Fish: frozen, skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "GDP": 279034355.1084,
+    "Year": 2023,
+    "iso_code": "KI",
+    "flag_url": "https://flagsapi.com/KI/flat/64.png"
+  },
+  {
+    "country": "Kuwait",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 161772221950.942,
+    "Year": 2023,
+    "iso_code": "KW",
+    "flag_url": "https://flagsapi.com/KW/flat/64.png"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 13987627908.8381,
+    "Year": 2023,
+    "iso_code": "KG",
+    "flag_url": "https://flagsapi.com/KG/flat/64.png"
+  },
+  {
+    "country": "Lao People's Dem. Rep.",
+    "top_export": "Electrical energy",
+    "GDP": 15843155731.2552,
+    "Year": 2023,
+    "iso_code": "LA",
+    "flag_url": "https://flagsapi.com/LA/flat/64.png"
+  },
+  {
+    "country": "Latvia",
+    "top_export": "Cereals: wheat and meslin, durum wheat, other than seed",
+    "GDP": 43627078481.2871,
+    "Year": 2023,
+    "iso_code": "LV",
+    "flag_url": "https://flagsapi.com/LV/flat/64.png"
+  },
+  {
+    "country": "Lebanon",
+    "top_export": "Jewellery: of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
+    "GDP": 20992421948.8081,
+    "Year": 2022,
+    "iso_code": "LB",
+    "flag_url": "https://flagsapi.com/LB/flat/64.png"
+  },
+  {
+    "country": "Lesotho",
+    "top_export": "Diamonds: non-industrial, unworked or simply sawn, cleaved or bruted, but not mounted or set",
+    "GDP": 2046039024.4585,
+    "Year": 2023,
+    "iso_code": "LS",
+    "flag_url": "https://flagsapi.com/LS/flat/64.png"
+  },
+  {
+    "country": "Liberia",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 4332000000,
+    "Year": 2023,
+    "iso_code": "LR",
+    "flag_url": "https://flagsapi.com/LR/flat/64.png"
+  },
+  {
+    "country": "Libya",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 50491722445.7773,
+    "Year": 2023,
+    "iso_code": "LY",
+    "flag_url": "https://flagsapi.com/LY/flat/64.png"
+  },
+  {
+    "country": "Lithuania",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 77836396962.772,
+    "Year": 2023,
+    "iso_code": "LT",
+    "flag_url": "https://flagsapi.com/LT/flat/64.png"
+  },
+  {
+    "country": "Luxembourg",
+    "top_export": "Turbo-jets: of a thrust exceeding 25kN",
+    "GDP": 85755006123.5976,
+    "Year": 2023,
+    "iso_code": "LU",
+    "flag_url": "https://flagsapi.com/LU/flat/64.png"
+  },
+  {
+    "country": "Madagascar",
+    "top_export": "Nickel: unwrought, not alloyed",
+    "GDP": 16031702914.9195,
+    "Year": 2023,
+    "iso_code": "MG",
+    "flag_url": "https://flagsapi.com/MG/flat/64.png"
+  },
+  {
+    "country": "Malawi",
+    "top_export": "Tobacco: partly or wholly stemmed or stripped",
+    "GDP": 14084341062.3675,
+    "Year": 2023,
+    "iso_code": "MW",
+    "flag_url": "https://flagsapi.com/MW/flat/64.png"
+  },
+  {
+    "country": "Malaysia",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 399648828546.504,
+    "Year": 2023,
+    "iso_code": "MY",
+    "flag_url": "https://flagsapi.com/MY/flat/64.png"
+  },
+  {
+    "country": "Maldives",
+    "top_export": "Fish: frozen, skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "GDP": 6600000000,
+    "Year": 2023,
+    "iso_code": "MV",
+    "flag_url": "https://flagsapi.com/MV/flat/64.png"
+  },
+  {
+    "country": "Mali",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 20904898296.2501,
+    "Year": 2023,
+    "iso_code": "ML",
+    "flag_url": "https://flagsapi.com/ML/flat/64.png"
+  },
+  {
+    "country": "Malta",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 20956999452.4317,
+    "Year": 2023,
+    "iso_code": "MT",
+    "flag_url": "https://flagsapi.com/MT/flat/64.png"
+  },
+  {
+    "country": "Marshall Isds",
+    "top_export": "Floating or submersible drilling or production platforms",
+    "GDP": 284000000,
+    "Year": 2023,
+    "iso_code": "MH",
+    "flag_url": "https://flagsapi.com/MH/flat/64.png"
+  },
+  {
+    "country": "Mauritania",
+    "top_export": "Iron ores and concentrates: non-agglomerated",
+    "GDP": 10452577062.7581,
+    "Year": 2023,
+    "iso_code": "MR",
+    "flag_url": "https://flagsapi.com/MR/flat/64.png"
+  },
+  {
+    "country": "Mauritius",
+    "top_export": "Diamonds: non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
+    "GDP": 14397127281.3829,
+    "Year": 2023,
+    "iso_code": "MU",
+    "flag_url": "https://flagsapi.com/MU/flat/64.png"
+  },
+  {
+    "country": "Mexico",
+    "top_export": "Vehicles: with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "GDP": 1788886821046.81,
+    "Year": 2023,
+    "iso_code": "MX",
+    "flag_url": "https://flagsapi.com/MX/flat/64.png"
+  },
+  {
+    "country": "Mongolia",
+    "top_export": "Coal: bituminous, whether or not pulverised, but not agglomerated",
+    "GDP": 19872180369.6275,
+    "Year": 2023,
+    "iso_code": "MN",
+    "flag_url": "https://flagsapi.com/MN/flat/64.png"
+  },
+  {
+    "country": "Montenegro",
+    "top_export": "Electrical energy",
+    "GDP": 7404541964.5078,
+    "Year": 2023,
+    "iso_code": "ME",
+    "flag_url": "https://flagsapi.com/ME/flat/64.png"
+  },
+  {
+    "country": "Morocco",
+    "top_export": "Insulated electric conductors: ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "GDP": 141109373209.414,
+    "Year": 2023,
+    "iso_code": "MA",
+    "flag_url": "https://flagsapi.com/MA/flat/64.png"
+  },
+  {
+    "country": "Mozambique",
+    "top_export": "Coal: (other than anthracite and bituminous), whether or not pulverised but not agglomerated",
+    "GDP": 20624597846.5495,
+    "Year": 2023,
+    "iso_code": "MZ",
+    "flag_url": "https://flagsapi.com/MZ/flat/64.png"
+  },
+  {
+    "country": "Myanmar",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 64815031669.0952,
+    "Year": 2023,
+    "iso_code": "MM",
+    "flag_url": "https://flagsapi.com/MM/flat/64.png"
+  },
+  {
+    "country": "N. Mariana Isds",
+    "top_export": "Insulated electric conductors: for a voltage not exceeding 1000 volts, fitted with connectors",
+    "GDP": 858000000,
+    "Year": 2020,
+    "iso_code": "MP",
+    "flag_url": "https://flagsapi.com/MP/flat/64.png"
+  },
+  {
+    "country": "Namibia",
+    "top_export": "Metals: gold, semi-manufactured",
+    "GDP": 12351024843.7467,
+    "Year": 2023,
+    "iso_code": "NA",
+    "flag_url": "https://flagsapi.com/NA/flat/64.png"
+  },
+  {
+    "country": "Nauru",
+    "top_export": "Fish: frozen, skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "GDP": 154127798.1935,
+    "Year": 2023,
+    "iso_code": "NR",
+    "flag_url": "https://flagsapi.com/NR/flat/64.png"
+  },
+  {
+    "country": "Nepal",
+    "top_export": "Vegetable oils: palm oil and its fractions, other than crude, whether or not refined, but not chemically modified",
+    "GDP": 40908073366.8455,
+    "Year": 2023,
+    "iso_code": "NP",
+    "flag_url": "https://flagsapi.com/NP/flat/64.png"
+  },
+  {
+    "country": "Netherlands",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 1118124749886.29,
+    "Year": 2023,
+    "iso_code": "NL",
+    "flag_url": "https://flagsapi.com/NL/flat/64.png"
+  },
+  {
+    "country": "New Caledonia",
+    "top_export": "Ferro-alloys: ferro-nickel",
+    "GDP": 9623318718.3146,
+    "Year": 2022,
+    "iso_code": "NC",
+    "flag_url": "https://flagsapi.com/NC/flat/64.png"
+  },
+  {
+    "country": "New Zealand",
+    "top_export": "Wood: coniferous species, of pine (Pinus spp.), in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated, of which the smallest cross-sectional dimension is 15 cm or more",
+    "GDP": 253465703232.146,
+    "Year": 2023,
+    "iso_code": "NZ",
+    "flag_url": "https://flagsapi.com/NZ/flat/64.png"
+  },
+  {
+    "country": "Nicaragua",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 17829215283.7997,
+    "Year": 2023,
+    "iso_code": "NI",
+    "flag_url": "https://flagsapi.com/NI/flat/64.png"
+  },
+  {
+    "country": "Niger",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 16819170420.5653,
+    "Year": 2023,
+    "iso_code": "NE",
+    "flag_url": "https://flagsapi.com/NE/flat/64.png"
+  },
+  {
+    "country": "Nigeria",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 362814951696.073,
+    "Year": 2023,
+    "iso_code": "NG",
+    "flag_url": "https://flagsapi.com/NG/flat/64.png"
+  },
+  {
+    "country": "North Macedonia",
+    "top_export": "Catalysts, supported: reaction initiators, reaction accelerators and catalytic preparations, with precious metal or precious metal compounds as the active substance, n.e.c. or included",
+    "GDP": 14761237042.2057,
+    "Year": 2023,
+    "iso_code": "MK",
+    "flag_url": "https://flagsapi.com/MK/flat/64.png"
+  },
+  {
+    "country": "Norway",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 485513316503.63,
+    "Year": 2023,
+    "iso_code": "NO",
+    "flag_url": "https://flagsapi.com/NO/flat/64.png"
+  },
+  {
+    "country": "Oman",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 108192457737.321,
+    "Year": 2023,
+    "iso_code": "OM",
+    "flag_url": "https://flagsapi.com/OM/flat/64.png"
+  },
+  {
+    "country": "Pakistan",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 338368455317.876,
+    "Year": 2023,
+    "iso_code": "PK",
+    "flag_url": "https://flagsapi.com/PK/flat/64.png"
+  },
+  {
+    "country": "Palau",
+    "top_export": "Vessels and other floating structures: for breaking up",
+    "GDP": 263020733.717,
+    "Year": 2023,
+    "iso_code": "PW",
+    "flag_url": "https://flagsapi.com/PW/flat/64.png"
+  },
+  {
+    "country": "Panama",
+    "top_export": "Copper ores and concentrates",
+    "GDP": 83382400000,
+    "Year": 2023,
+    "iso_code": "PA",
+    "flag_url": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "country": "Papua New Guinea",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: liquefied, natural gas",
+    "GDP": 30932496249.7916,
+    "Year": 2023,
+    "iso_code": "PG",
+    "flag_url": "https://flagsapi.com/PG/flat/64.png"
+  },
+  {
+    "country": "Paraguay",
+    "top_export": "Soya beans: other than seed, whether or not broken",
+    "GDP": 42956263543.9482,
+    "Year": 2023,
+    "iso_code": "PY",
+    "flag_url": "https://flagsapi.com/PY/flat/64.png"
+  },
+  {
+    "country": "Peru",
+    "top_export": "Copper ores and concentrates",
+    "GDP": 267603248655.253,
+    "Year": 2023,
+    "iso_code": "PE",
+    "flag_url": "https://flagsapi.com/PE/flat/64.png"
+  },
+  {
+    "country": "Philippines",
+    "top_export": "Electronic integrated circuits: n.e.c. in heading no. 8542",
+    "GDP": 437146372729.942,
+    "Year": 2023,
+    "iso_code": "PH",
+    "flag_url": "https://flagsapi.com/PH/flat/64.png"
+  },
+  {
+    "country": "Poland",
+    "top_export": "Electric accumulators: lithium-ion, including separators, whether or not rectangular (including square)",
+    "GDP": 811229100687.566,
+    "Year": 2023,
+    "iso_code": "PL",
+    "flag_url": "https://flagsapi.com/PL/flat/64.png"
+  },
+  {
+    "country": "Portugal",
+    "top_export": "Medicaments: (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
+    "GDP": 287080013574.497,
+    "Year": 2023,
+    "iso_code": "PT",
+    "flag_url": "https://flagsapi.com/PT/flat/64.png"
+  },
+  {
+    "country": "Qatar",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: liquefied, propane",
+    "GDP": 235770403734.9,
+    "Year": 2022,
+    "iso_code": "QA",
+    "flag_url": "https://flagsapi.com/QA/flat/64.png"
+  },
+  {
+    "country": "Rep. of Korea",
+    "top_export": "Electronic integrated circuits: memories",
+    "GDP": 1712792854202.37,
+    "Year": 2023,
+    "iso_code": "KR",
+    "flag_url": "https://flagsapi.com/KR/flat/64.png"
+  },
+  {
+    "country": "Rep. of Moldova",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 16539436547.295,
+    "Year": 2023,
+    "iso_code": "MD",
+    "flag_url": "https://flagsapi.com/MD/flat/64.png"
+  },
+  {
+    "country": "Romania",
+    "top_export": "Vehicle parts: gear boxes and parts thereof",
+    "GDP": 351002579629.67,
+    "Year": 2023,
+    "iso_code": "RO",
+    "flag_url": "https://flagsapi.com/RO/flat/64.png"
+  },
+  {
+    "country": "Russian Federation",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 2021421476035.42,
+    "Year": 2023,
+    "iso_code": "RU",
+    "flag_url": "https://flagsapi.com/RU/flat/64.png"
+  },
+  {
+    "country": "Rwanda",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 14097768647.6695,
+    "Year": 2023,
+    "iso_code": "RW",
+    "flag_url": "https://flagsapi.com/RW/flat/64.png"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "top_export": "Motorboats: (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 24m",
+    "GDP": 1077033111.1111,
+    "Year": 2023,
+    "iso_code": "KN",
+    "flag_url": "https://flagsapi.com/KN/flat/64.png"
+  },
+  {
+    "country": "Saint Lucia",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 2519925938.5245,
+    "Year": 2023,
+    "iso_code": "LC",
+    "flag_url": "https://flagsapi.com/LC/flat/64.png"
+  },
+  {
+    "country": "Saint Maarten",
+    "top_export": "Ferrous waste and scrap: n.e.c. in heading no. 7204",
+    "GDP": 1623165683.1285,
+    "Year": 2023,
+    "iso_code": "SX",
+    "flag_url": "https://flagsapi.com/SX/flat/64.png"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "top_export": "Motorboats: (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 24m",
+    "GDP": 1065962962.963,
+    "Year": 2023,
+    "iso_code": "VC",
+    "flag_url": "https://flagsapi.com/VC/flat/64.png"
+  },
+  {
+    "country": "Samoa",
+    "top_export": "Electronic integrated circuits: processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
+    "GDP": 934100336.2757,
+    "Year": 2023,
+    "iso_code": "WS",
+    "flag_url": "https://flagsapi.com/WS/flat/64.png"
+  },
+  {
+    "country": "San Marino",
+    "top_export": "Aeroplanes and other aircraft, except unmanned: of an unladen weight exceeding 15,000kg",
+    "GDP": 1855382833.1165,
+    "Year": 2021,
+    "iso_code": "SM",
+    "flag_url": "https://flagsapi.com/SM/flat/64.png"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 603240748.9542,
+    "Year": 2023,
+    "iso_code": "ST",
+    "flag_url": "https://flagsapi.com/ST/flat/64.png"
+  },
+  {
+    "country": "Saudi Arabia",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 1067582933333.33,
+    "Year": 2023,
+    "iso_code": "SA",
+    "flag_url": "https://flagsapi.com/SA/flat/64.png"
+  },
+  {
+    "country": "Senegal",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 31013986429.1861,
+    "Year": 2023,
+    "iso_code": "SN",
+    "flag_url": "https://flagsapi.com/SN/flat/64.png"
+  },
+  {
+    "country": "Serbia",
+    "top_export": "Copper ores and concentrates",
+    "GDP": 75187125426.7375,
+    "Year": 2023,
+    "iso_code": "RS",
+    "flag_url": "https://flagsapi.com/RS/flat/64.png"
+  },
+  {
+    "country": "Seychelles",
+    "top_export": "Fish preparations: tunas, skipjack tuna and bonito (Sarda spp.), prepared or preserved, whole or in pieces (but not minced)",
+    "GDP": 2141450171.1393,
+    "Year": 2023,
+    "iso_code": "SC",
+    "flag_url": "https://flagsapi.com/SC/flat/64.png"
+  },
+  {
+    "country": "Sierra Leone",
+    "top_export": "Iron ores and concentrates: non-agglomerated",
+    "GDP": 3809832236.9596,
+    "Year": 2023,
+    "iso_code": "SL",
+    "flag_url": "https://flagsapi.com/SL/flat/64.png"
+  },
+  {
+    "country": "Singapore",
+    "top_export": "Electronic integrated circuits: processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
+    "GDP": 501427500080.059,
+    "Year": 2023,
+    "iso_code": "SG",
+    "flag_url": "https://flagsapi.com/SG/flat/64.png"
+  },
+  {
+    "country": "Slovakia",
+    "top_export": "Vehicles: with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "GDP": 132793622283.071,
+    "Year": 2023,
+    "iso_code": "SK",
+    "flag_url": "https://flagsapi.com/SK/flat/64.png"
+  },
+  {
+    "country": "Slovenia",
+    "top_export": "Medicaments: consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 68216781410.5228,
+    "Year": 2023,
+    "iso_code": "SI",
+    "flag_url": "https://flagsapi.com/SI/flat/64.png"
+  },
+  {
+    "country": "Solomon Isds",
+    "top_export": "Wood, tropical: other than dark red meranti, light red meranti meranti bakau and teak, in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated",
+    "GDP": 1631286701.1152,
+    "Year": 2023,
+    "iso_code": "SB",
+    "flag_url": "https://flagsapi.com/SB/flat/64.png"
+  },
+  {
+    "country": "Somalia",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 11679800110.1523,
+    "Year": 2023,
+    "iso_code": "SO",
+    "flag_url": "https://flagsapi.com/SO/flat/64.png"
+  },
+  {
+    "country": "South Africa",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 377781600985.873,
+    "Year": 2023,
+    "iso_code": "ZA",
+    "flag_url": "https://flagsapi.com/ZA/flat/64.png"
+  },
+  {
+    "country": "South Sudan",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 11997800760.2242,
+    "Year": 2015,
+    "iso_code": "SS",
+    "flag_url": "https://flagsapi.com/SS/flat/64.png"
+  },
+  {
+    "country": "Spain",
+    "top_export": "Medicaments: consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "GDP": 1580694712515.71,
+    "Year": 2023,
+    "iso_code": "ES",
+    "flag_url": "https://flagsapi.com/ES/flat/64.png"
+  },
+  {
+    "country": "Sri Lanka",
+    "top_export": "Brassieres: whether or not knitted or crocheted",
+    "GDP": 84356860421.13,
+    "Year": 2023,
+    "iso_code": "LK",
+    "flag_url": "https://flagsapi.com/LK/flat/64.png"
+  },
+  {
+    "country": "State of Palestine",
+    "top_export": "Ferrous waste and scrap: n.e.c. in heading no. 7204",
+    "GDP": 17396300000,
+    "Year": 2023,
+    "iso_code": "PS",
+    "flag_url": "https://flagsapi.com/PS/flat/64.png"
+  },
+  {
+    "country": "Sudan",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 109327023588.732,
+    "Year": 2023,
+    "iso_code": "SD",
+    "flag_url": "https://flagsapi.com/SD/flat/64.png"
+  },
+  {
+    "country": "Suriname",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 3782437296.0432,
+    "Year": 2023,
+    "iso_code": "SR",
+    "flag_url": "https://flagsapi.com/SR/flat/64.png"
+  },
+  {
+    "country": "Sweden",
+    "top_export": "Vehicles: with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "GDP": 593267701033.408,
+    "Year": 2023,
+    "iso_code": "SE",
+    "flag_url": "https://flagsapi.com/SE/flat/64.png"
+  },
+  {
+    "country": "Switzerland",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 884940402230.409,
+    "Year": 2023,
+    "iso_code": "CH",
+    "flag_url": "https://flagsapi.com/CH/flat/64.png"
+  },
+  {
+    "country": "Syria",
+    "top_export": "Vegetable oils: olive oil and its fractions, extra virgin olive oil, whether or not refined, but not chemically modified",
+    "GDP": 8980060818.7215,
+    "Year": 2021,
+    "iso_code": "SY",
+    "flag_url": "https://flagsapi.com/SY/flat/64.png"
+  },
+  {
+    "country": "Tajikistan",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 12060602008.8478,
+    "Year": 2023,
+    "iso_code": "TJ",
+    "flag_url": "https://flagsapi.com/TJ/flat/64.png"
+  },
+  {
+    "country": "Thailand",
+    "top_export": "Communication apparatus (excluding telephone sets or base stations): machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",
+    "GDP": 514944993833.578,
+    "Year": 2023,
+    "iso_code": "TH",
+    "flag_url": "https://flagsapi.com/TH/flat/64.png"
+  },
+  {
+    "country": "Timor-Leste",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 2243142908.4616,
+    "Year": 2023,
+    "iso_code": "TL",
+    "flag_url": "https://flagsapi.com/TL/flat/64.png"
+  },
+  {
+    "country": "Togo",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 9171261835.0626,
+    "Year": 2023,
+    "iso_code": "TG",
+    "flag_url": "https://flagsapi.com/TG/flat/64.png"
+  },
+  {
+    "country": "Tonga",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 500274898.0852,
+    "Year": 2022,
+    "iso_code": "TO",
+    "flag_url": "https://flagsapi.com/TO/flat/64.png"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 28139944790.2911,
+    "Year": 2023,
+    "iso_code": "TT",
+    "flag_url": "https://flagsapi.com/TT/flat/64.png"
+  },
+  {
+    "country": "Tunisia",
+    "top_export": "Insulated electric conductors: ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "GDP": 48529595416.6533,
+    "Year": 2023,
+    "iso_code": "TN",
+    "flag_url": "https://flagsapi.com/TN/flat/64.png"
+  },
+  {
+    "country": "Turkmenistan",
+    "top_export": "Petroleum gases and other gaseous hydrocarbons: in gaseous state, natural gas",
+    "GDP": 59887334844.0651,
+    "Year": 2023,
+    "iso_code": "TM",
+    "flag_url": "https://flagsapi.com/TM/flat/64.png"
+  },
+  {
+    "country": "Turks and Caicos Isds",
+    "top_export": "Poly(ethylene terephthalate): in primary forms, having a viscosity of 78ml/g or higher",
+    "GDP": 1402054390.9473,
+    "Year": 2023,
+    "iso_code": "TC",
+    "flag_url": "https://flagsapi.com/TC/flat/64.png"
+  },
+  {
+    "country": "Tuvalu",
+    "top_export": "Fish: frozen, skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "GDP": 62280311.5852,
+    "Year": 2023,
+    "iso_code": "TV",
+    "flag_url": "https://flagsapi.com/TV/flat/64.png"
+  },
+  {
+    "country": "USA",
+    "top_export": "Petroleum oils and oils from bituminous minerals, not crude: preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals: these being the basic constituents of the preparations: waste oils",
+    "GDP": 27360935000000,
+    "Year": 2023,
+    "iso_code": "US",
+    "flag_url": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "country": "Uganda",
+    "top_export": "Metals: gold, semi-manufactured",
+    "GDP": 49272882213.623,
+    "Year": 2023,
+    "iso_code": "UG",
+    "flag_url": "https://flagsapi.com/UG/flat/64.png"
+  },
+  {
+    "country": "Ukraine",
+    "top_export": "Cereals: maize (corn), other than seed",
+    "GDP": 178757021386.809,
+    "Year": 2023,
+    "iso_code": "UA",
+    "flag_url": "https://flagsapi.com/UA/flat/64.png"
+  },
+  {
+    "country": "United Arab Emirates",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 504173451327.434,
+    "Year": 2023,
+    "iso_code": "AE",
+    "flag_url": "https://flagsapi.com/AE/flat/64.png"
+  },
+  {
+    "country": "United Kingdom",
+    "top_export": "Metals: gold, semi-manufactured",
+    "GDP": 3340032380668.04,
+    "Year": 2023,
+    "iso_code": "GB",
+    "flag_url": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "country": "United Rep. of Tanzania",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 79158286333.524,
+    "Year": 2023,
+    "iso_code": "TZ",
+    "flag_url": "https://flagsapi.com/TZ/flat/64.png"
+  },
+  {
+    "country": "Uruguay",
+    "top_export": "Wood pulp: chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of non-coniferous wood",
+    "GDP": 77240831587.167,
+    "Year": 2023,
+    "iso_code": "UY",
+    "flag_url": "https://flagsapi.com/UY/flat/64.png"
+  },
+  {
+    "country": "Uzbekistan",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 90889149306.7313,
+    "Year": 2023,
+    "iso_code": "UZ",
+    "flag_url": "https://flagsapi.com/UZ/flat/64.png"
+  },
+  {
+    "country": "Vanuatu",
+    "top_export": "Fish: frozen, skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "GDP": 1126313359.2192,
+    "Year": 2023,
+    "iso_code": "VU",
+    "flag_url": "https://flagsapi.com/VU/flat/64.png"
+  },
+  {
+    "country": "Venezuela",
+    "top_export": "Oils: petroleum oils and oils obtained from bituminous minerals, crude",
+    "GDP": 482359318767.703,
+    "Year": 2014,
+    "iso_code": "VE",
+    "flag_url": "https://flagsapi.com/VE/flat/64.png"
+  },
+  {
+    "country": "Viet Nam",
+    "top_export": "Flat panel display modules, whether or not incorporating touch-sensitive screens: of organic light-emitting diodes (OLED), with drivers or control circuits",
+    "GDP": 429716969049.593,
+    "Year": 2023,
+    "iso_code": "VN",
+    "flag_url": "https://flagsapi.com/VN/flat/64.png"
+  },
+  {
+    "country": "Yemen",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 21606160663.0318,
+    "Year": 2018,
+    "iso_code": "YE",
+    "flag_url": "https://flagsapi.com/YE/flat/64.png"
+  },
+  {
+    "country": "Zambia",
+    "top_export": "Copper: unrefined, copper anodes for electrolytic refining",
+    "GDP": 28162630953.9285,
+    "Year": 2023,
+    "iso_code": "ZM",
+    "flag_url": "https://flagsapi.com/ZM/flat/64.png"
+  },
+  {
+    "country": "Zimbabwe",
+    "top_export": "Metals: gold, non-monetary, unwrought (but not powder)",
+    "GDP": 26538273498.8461,
+    "Year": 2023,
+    "iso_code": "ZW",
+    "flag_url": "https://flagsapi.com/ZW/flat/64.png"
+  }
+]
